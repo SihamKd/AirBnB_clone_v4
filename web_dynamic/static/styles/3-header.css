@@ -9,3 +9,14 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+/* web_dynamic/static/styles/3-header.css */
+.available {
+  background-color: #ff545f;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 30px;
+}
