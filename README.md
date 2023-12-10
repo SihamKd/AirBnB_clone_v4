@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-SIHAM KHADDOU - [Github](https://github.com/SihamKd)  
+SIHAM KHADDOU - [Github](https://github.com/SihamKd)
+IMANE ELACERI - [GITHUB](https://github.com/Imane47250) 
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 
 
